@@ -5,6 +5,8 @@
 // @match       https://imgbaron.com/img/*.jpg
 // @match       https://imgsen.com/img/*.jpeg
 // @match       https://imgsen.com/img/*.jpg
+// @match       https://imgstar.eu/img/*.jpeg
+// @match       https://imgstar.eu/img/*.jpg
 // @match       https://imgsto.com/img/*.jpeg
 // @match       https://imgsto.com/img/*.jpg
 // @match       https://kropic.com/img/*.jpeg
@@ -20,7 +22,7 @@
 // @match       https://www.picbaron.com/img/*.jpeg
 // @match       https://www.picbaron.com/img/*.jpg
 // @grant       none
-// @version     0.20211219.0
+// @version     0.20220323.0
 // @author      Gea-Suan Lin <gslin@gslin.com>
 // @description Enlarge the image automatically.
 // @license     MIT
