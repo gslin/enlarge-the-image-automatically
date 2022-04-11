@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name        Enlarge the image automatically
 // @namespace   https://github.com/gslin/enlarge-the-image-automatically
+// @match       https://imgadult.com/upload/*.jpeg
+// @match       https://imgadult.com/upload/*.jpg
 // @match       https://imgaudlt.com/upload/*.jpeg
 // @match       https://imgaudlt.com/upload/*.jpg
 // @match       https://imgbaron.com/img/*.jpeg
@@ -24,7 +26,7 @@
 // @match       https://www.picbaron.com/img/*.jpeg
 // @match       https://www.picbaron.com/img/*.jpg
 // @grant       none
-// @version     0.20220410.1
+// @version     0.20220412.0
 // @author      Gea-Suan Lin <gslin@gslin.com>
 // @description Enlarge the image automatically.
 // @license     MIT
