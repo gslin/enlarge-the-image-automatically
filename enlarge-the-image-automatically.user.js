@@ -9,6 +9,8 @@
 // @match       https://imgaudlt.com/*.jpg
 // @match       https://imgbaron.com/*.jpeg
 // @match       https://imgbaron.com/*.jpg
+// @match       https://imgdrive.net/*.jpeg
+// @match       https://imgdrive.net/*.jpg
 // @match       https://imgsen.com/*.jpeg
 // @match       https://imgsen.com/*.jpg
 // @match       https://imgstar.eu/*.jpeg
@@ -30,7 +32,7 @@
 // @match       https://www.picbaron.com/*.jpeg
 // @match       https://www.picbaron.com/*.jpg
 // @grant       none
-// @version     0.20220813.0
+// @version     0.20220819.0
 // @author      Gea-Suan Lin <gslin@gslin.com>
 // @description Enlarge the image automatically.
 // @license     MIT
