@@ -35,12 +35,14 @@
 // @match       https://picdollar.com/*.jpg
 // @match       https://pig69.com/upload/Application/*.jpeg
 // @match       https://pig69.com/upload/Application/*.jpg
+// @match       https://porn4f.com/upload/Application/*.jpeg
+// @match       https://porn4f.com/upload/Application/*.jpg
 // @match       https://silverpic.com/*.jpeg
 // @match       https://silverpic.com/*.jpg
 // @match       https://www.picbaron.com/*.jpeg
 // @match       https://www.picbaron.com/*.jpg
 // @grant       none
-// @version     0.20231015.1
+// @version     0.20231020.0
 // @author      Gea-Suan Lin <gslin@gslin.com>
 // @description Enlarge the image automatically.
 // @license     MIT
