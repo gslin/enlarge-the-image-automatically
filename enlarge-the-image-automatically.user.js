@@ -29,6 +29,8 @@
 // @match       https://kropic.com/*.jpg
 // @match       https://kvador.com/*.jpeg
 // @match       https://kvador.com/*.jpg
+// @match       https://ovabee.com/upload/Application/*.jpeg
+// @match       https://ovabee.com/upload/Application/*.jpg
 // @match       https://pics4you.net/*.jpeg
 // @match       https://pics4you.net/*.jpg
 // @match       https://picdollar.com/*.jpeg
@@ -42,7 +44,7 @@
 // @match       https://www.picbaron.com/*.jpeg
 // @match       https://www.picbaron.com/*.jpg
 // @grant       none
-// @version     0.20231020.0
+// @version     0.20231020.1
 // @author      Gea-Suan Lin <gslin@gslin.com>
 // @description Enlarge the image automatically.
 // @license     MIT
