@@ -5,6 +5,8 @@
 // @match       https://ai18.pics/upload/Application/*.jpg
 // @match       https://cnpics.org/upload/Application/*.jpeg
 // @match       https://cnpics.org/upload/Application/*.jpg
+// @match       https://cnxx.me/upload/Application/*.jpeg
+// @match       https://cnxx.me/upload/Application/*.jpg
 // @match       https://fotokiz.com/*.jpeg
 // @match       https://fotokiz.com/*.jpg
 // @match       https://idol69.net/upload/Application/*.jpeg
@@ -46,7 +48,7 @@
 // @match       https://www.picbaron.com/*.jpeg
 // @match       https://www.picbaron.com/*.jpg
 // @grant       none
-// @version     0.20231101.0
+// @version     0.20231101.1
 // @author      Gea-Suan Lin <gslin@gslin.com>
 // @description Enlarge the image automatically.
 // @license     MIT
