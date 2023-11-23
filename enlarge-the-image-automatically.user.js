@@ -7,6 +7,8 @@
 // @match       https://cnpics.org/upload/Application/*.jpg
 // @match       https://cnxx.me/upload/Application/*.jpeg
 // @match       https://cnxx.me/upload/Application/*.jpg
+// @match       https://cosplay18.pics/upload/en/*.jpeg
+// @match       https://cosplay18.pics/upload/en/*.jpg
 // @match       https://fotokiz.com/*.jpeg
 // @match       https://fotokiz.com/*.jpg
 // @match       https://idol69.net/upload/Application/*.jpeg
@@ -48,7 +50,7 @@
 // @match       https://www.picbaron.com/*.jpeg
 // @match       https://www.picbaron.com/*.jpg
 // @grant       none
-// @version     0.20231101.1
+// @version     0.20231124.0
 // @author      Gea-Suan Lin <gslin@gslin.com>
 // @description Enlarge the image automatically.
 // @license     MIT
