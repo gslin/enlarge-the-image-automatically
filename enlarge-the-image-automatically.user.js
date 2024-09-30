@@ -33,6 +33,8 @@
 // @match       https://imgtaxi.com/*.jpg
 // @match       https://javball.com/upload/Application/*.jpeg
 // @match       https://javball.com/upload/Application/*.jpg
+// @match       https://kin8-av.com/upload/Application/*.jpeg
+// @match       https://kin8-av.com/upload/Application/*.jpg
 // @match       https://kropic.com/*.jpeg
 // @match       https://kropic.com/*.jpg
 // @match       https://kvador.com/*.jpeg
@@ -52,7 +54,7 @@
 // @match       https://www.picbaron.com/*.jpeg
 // @match       https://www.picbaron.com/*.jpg
 // @grant       none
-// @version     0.20240519.0
+// @version     0.20241001.0
 // @author      Gea-Suan Lin <gslin@gslin.com>
 // @description Enlarge the image automatically.
 // @license     MIT
