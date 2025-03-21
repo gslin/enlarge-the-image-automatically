@@ -53,12 +53,14 @@
 // @match       https://pig69.com/upload/Application/*.jpg
 // @match       https://porn4f.com/upload/Application/*.jpeg
 // @match       https://porn4f.com/upload/Application/*.jpg
+// @match       https://porn4f.org/upload/Application/*.jpeg
+// @match       https://porn4f.org/upload/Application/*.jpg
 // @match       https://silverpic.com/*.jpeg
 // @match       https://silverpic.com/*.jpg
 // @match       https://www.picbaron.com/*.jpeg
 // @match       https://www.picbaron.com/*.jpg
 // @grant       none
-// @version     0.20241006.0
+// @version     0.20250321.0
 // @author      Gea-Suan Lin <gslin@gslin.com>
 // @description Enlarge the image automatically.
 // @license     MIT
