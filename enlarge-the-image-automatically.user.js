@@ -59,10 +59,12 @@
 // @match       https://porn4f.org/upload/Application/*.jpg
 // @match       https://silverpic.com/*.jpeg
 // @match       https://silverpic.com/*.jpg
+// @match       https://sweetie-fox.com/*.jpeg
+// @match       https://sweetie-fox.com/*.jpg
 // @match       https://www.picbaron.com/*.jpeg
 // @match       https://www.picbaron.com/*.jpg
 // @grant       none
-// @version     0.20250321.1
+// @version     0.20250324.0
 // @author      Gea-Suan Lin <gslin@gslin.com>
 // @description Enlarge the image automatically.
 // @license     MIT
