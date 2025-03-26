@@ -21,6 +21,8 @@
 // @match       https://fotokiz.com/*.jpg
 // @match       https://idol69.net/upload/Application/*.jpeg
 // @match       https://idol69.net/upload/Application/*.jpg
+// @match       https://image.javbee.vip/*.jpeg
+// @match       https://image.javbee.vip/*.jpg
 // @match       https://imgadult.com/*.jpeg
 // @match       https://imgadult.com/*.jpg
 // @match       https://imgaudlt.com/*.jpeg
@@ -66,7 +68,7 @@
 // @match       https://www.picbaron.com/*.jpeg
 // @match       https://www.picbaron.com/*.jpg
 // @grant       none
-// @version     0.20250324.1
+// @version     0.20250327.0
 // @author      Gea-Suan Lin <gslin@gslin.com>
 // @description Enlarge the image automatically.
 // @license     MIT
