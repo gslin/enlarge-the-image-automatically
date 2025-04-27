@@ -19,6 +19,8 @@
 // @match       https://fikfok.net/upload/Application/*.jpg
 // @match       https://fotokiz.com/*.jpeg
 // @match       https://fotokiz.com/*.jpg
+// @match       https://hentaipig.com/upload/Application/*.jpeg
+// @match       https://hentaipig.com/upload/Application/*.jpg
 // @match       https://idol69.net/upload/Application/*.jpeg
 // @match       https://idol69.net/upload/Application/*.jpg
 // @match       https://image.javbee.vip/*.jpeg
@@ -68,7 +70,7 @@
 // @match       https://www.picbaron.com/*.jpeg
 // @match       https://www.picbaron.com/*.jpg
 // @grant       none
-// @version     0.20250408.0
+// @version     0.20250428.0
 // @author      Gea-Suan Lin <gslin@gslin.com>
 // @description Enlarge the image automatically.
 // @license     MIT
